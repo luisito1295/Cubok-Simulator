@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E165C830-6EB6-4481-A900-A90CA367482C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>InterfazG</RootNamespace>
+    <AssemblyName>InterfazG</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CRL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRL.Designer.cs">
+      <DependentUpon>CRL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gauss_jordan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gauss_jordan.Designer.cs">
+      <DependentUpon>Gauss_jordan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Generador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generador.Designer.cs">
+      <DependentUpon>Generador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gen_cong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gen_cong.Designer.cs">
+      <DependentUpon>gen_cong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Idioma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Idioma.Designer.cs">
+      <DependentUpon>Idioma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lagrange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lagrange.Designer.cs">
+      <DependentUpon>lagrange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ley_ohm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ley_ohm.Designer.cs">
+      <DependentUpon>ley_ohm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menueb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menueb.Designer.cs">
+      <DependentUpon>Menueb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuEd.Designer.cs">
+      <DependentUpon>MenuEd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuMnum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuMnum.Designer.cs">
+      <DependentUpon>MenuMnum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prueba.Designer.cs">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="res.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="res.Designer.cs">
+      <DependentUpon>res.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CRL.resx">
+      <DependentUpon>CRL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gauss_jordan.resx">
+      <DependentUpon>Gauss_jordan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generador.resx">
+      <DependentUpon>Generador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gen_cong.resx">
+      <DependentUpon>gen_cong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Idioma.resx">
+      <DependentUpon>Idioma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lagrange.aa-ER.resx">
+      <DependentUpon>lagrange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lagrange.de.resx">
+      <DependentUpon>lagrange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lagrange.resx">
+      <DependentUpon>lagrange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ley_ohm.resx">
+      <DependentUpon>ley_ohm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menueb.resx">
+      <DependentUpon>Menueb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuEd.resx">
+      <DependentUpon>MenuEd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuMnum.resx">
+      <DependentUpon>MenuMnum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prueba.resx">
+      <DependentUpon>prueba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="res.resx">
+      <DependentUpon>res.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\Nueva carpeta\Bitmap1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,30 @@
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.exe.config
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csprojResolveAssemblyReference.cache
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Properties.Resources.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csproj.GenerateResource.Cache
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Numericos.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.idioma.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Ayuda.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.exe.manifest
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.application
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.TrustInfo.xml
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.exe.manifest
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.application
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Cargando.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Principal.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Carga.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Trapecio.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Simpson.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\info.lundin.math.dll
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Lagrange.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gauss_Jordan.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Newton_Rhapson.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.gen_con.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gen_simple.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu__simu.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.barbero_dormilon.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Ecuaciones.resources

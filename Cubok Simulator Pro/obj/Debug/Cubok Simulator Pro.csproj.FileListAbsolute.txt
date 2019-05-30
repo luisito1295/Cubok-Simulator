@@ -1,0 +1,88 @@
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.exe.config
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csprojResolveAssemblyReference.cache
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Properties.Resources.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csproj.GenerateResource.Cache
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Numericos.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.idioma.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Ayuda.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.exe.manifest
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.application
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.TrustInfo.xml
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.exe.manifest
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.application
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Cargando.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Principal.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Carga.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Trapecio.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Simpson.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\info.lundin.math.dll
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Lagrange.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gauss_Jordan.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Newton_Rhapson.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.gen_con.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gen_simple.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu__simu.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.barbero_dormilon.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Ecuaciones.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.rc2.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.paso_rc2.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\EB.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\EB.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\InterfazG.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\InterfazG.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\aa-ER\InterfazG.resources.dll
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\de\InterfazG.resources.dll
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\bin\Debug\Cubok Simulator Pro.exe.config
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.exe
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.pdb
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csprojResolveAssemblyReference.cache
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Ayuda.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.barbero_dormilon.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Cargando.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Carga.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gauss_Jordan.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.gen_con.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gen_simple.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.idioma.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Lagrange.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Ecuaciones.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Numericos.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu__simu.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Newton_Rhapson.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.paso_rc2.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Principal.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Properties.Resources.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.rc2.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Simpson.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Trapecio.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csproj.GenerateResource.Cache
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.TrustInfo.xml
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csprojAssemblyReference.cache
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Ayuda.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.barbero_dormilon.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Cargando.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Carga.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gauss_Jordan.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.gen_con.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Gen_simple.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.idioma.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Lagrange.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Ecuaciones.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu_Numericos.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Menu__simu.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Newton_Rhapson.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.paso_rc2.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Principal.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Properties.Resources.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.rc2.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Simpson.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok_Simulator_Pro.Trapecio.resources
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csproj.GenerateResource.cache
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.csproj.CoreCompileInputs.cache
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.TrustInfo.xml
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.exe
+D:\luisl\Descargas\Cubok Simulator Pro\Cubok Simulator Pro\obj\Debug\Cubok Simulator Pro.pdb

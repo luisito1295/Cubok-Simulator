@@ -1,0 +1,90 @@
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\bin\Debug\EB.exe.config
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\bin\Debug\EB.exe
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\bin\Debug\EB.pdb
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\obj\Debug\EB.csprojResolveAssemblyReference.cache
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\obj\Debug\EB.Properties.Resources.resources
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\obj\Debug\EB.csproj.GenerateResource.Cache
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\obj\Debug\EB.exe
+c:\users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\obj\Debug\EB.pdb
+C:\Users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jesusmaria\documents\visual studio 2013\Projects\EB\EB\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jesusmaria\Downloads\EB\EB\bin\Debug\EB.exe.config
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.exe
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.csprojResolveAssemblyReference.cache
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.Form1.resources
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.Form2.resources
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.Form3.resources
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.Form4.resources
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.Properties.Resources.resources
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.csproj.GenerateResource.Cache
+C:\Users\jesusmaria\Downloads\EB\EB\bin\Debug\EB.exe
+C:\Users\jesusmaria\Downloads\EB\EB\bin\Debug\EB.pdb
+C:\Users\jesusmaria\Downloads\EB\EB\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jesusmaria\Downloads\EB\EB\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jesusmaria\Downloads\EB\EB\obj\Debug\EB.pdb
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.menu.resources
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.resistencia.resources
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.ohm.resources
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.puente.resources
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.mediaonda.resources
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.ondacompleta.resources
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.ganancia.resources
+C:\Users\jesusmaria\Documents\Visual Studio 2013\Projects\EB\EB\obj\Debug\EB.preamplificador.resources
+F:\EB\EB\EB\bin\Debug\EB.exe.config
+F:\EB\EB\EB\bin\Debug\EB.exe
+F:\EB\EB\EB\bin\Debug\EB.pdb
+F:\EB\EB\EB\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\EB\EB\EB\obj\Debug\EB.csprojResolveAssemblyReference.cache
+F:\EB\EB\EB\obj\Debug\EB.menu.resources
+F:\EB\EB\EB\obj\Debug\EB.ondacompleta.resources
+F:\EB\EB\EB\obj\Debug\EB.resistencia.resources
+F:\EB\EB\EB\obj\Debug\EB.ohm.resources
+F:\EB\EB\EB\obj\Debug\EB.puente.resources
+F:\EB\EB\EB\obj\Debug\EB.mediaonda.resources
+F:\EB\EB\EB\obj\Debug\EB.ganancia.resources
+F:\EB\EB\EB\obj\Debug\EB.preamplificador.resources
+F:\EB\EB\EB\obj\Debug\EB.Properties.Resources.resources
+F:\EB\EB\EB\obj\Debug\EB.csproj.GenerateResource.Cache
+F:\EB\EB\EB\obj\Debug\EB.exe
+F:\EB\EB\EB\obj\Debug\EB.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\EB.exe.config
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\EB.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\EB.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.csprojResolveAssemblyReference.cache
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.menu.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.ondacompleta.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.resistencia.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.ohm.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.puente.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.mediaonda.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.ganancia.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.preamplificador.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.Properties.Resources.resources
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.csproj.GenerateResource.Cache
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\InterfazG.exe
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\InterfazG.pdb
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\aa-ER\InterfazG.resources.dll
+D:\respaldo\Projecto integrador tercer semestre simulador\Cubok Simulator Pro\EB\EB\EB\bin\Debug\de\InterfazG.resources.dll
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\bin\Debug\EB.exe.config
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\bin\Debug\EB.exe
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\bin\Debug\EB.pdb
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\bin\Debug\InterfazG.exe
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\bin\Debug\InterfazG.pdb
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\bin\Debug\de\InterfazG.resources.dll
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.csprojResolveAssemblyReference.cache
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.menu.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.ondacompleta.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.resistencia.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.ohm.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.puente.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.mediaonda.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.ganancia.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.preamplificador.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.Properties.Resources.resources
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.csproj.GenerateResource.Cache
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.exe
+C:\Users\Marlen\Downloads\Cubok Simulator Pro\EB\EB\EB\obj\Debug\EB.pdb
